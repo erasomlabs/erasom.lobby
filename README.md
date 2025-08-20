@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="120" src="https://www.appcreator24.com/srv/imgs/gen/3707205_ico.png?v=3" width="120"/>
+  <img height="120" src="https://lh3.googleusercontent.com/NcjeRRvA5vl-Db219PxfZ9OdCq-LQzIcr3DRRmi0-txVoTCcooJYtaxAUX5o7YqRjNBsa22Wn2gtvnDbwVfzuto" width="120"/>
 </p>
 <h1 align="center">Lobby: Gestor de Redes Sociales</h1>
 <p align="center">Las redes sociales bajo tu control.</p>
@@ -60,11 +60,11 @@ Reúne tus redes sociales en un solo lugar. Lobby te ayuda a controlar tu acceso
 </tr>
 <tr>
 <td><img height="60" src="https://img.icons8.com/fluency/96/processor.png" style="float: left;" width="60"/><h4>SDK Objetivo<h4></h4></h4></td>
-<td>API 33</td>
+<td>API 35</td>
 </tr>
 <tr>
 <td><img height="60" src="https://img.icons8.com/fluency/96/database.png" style="float: left;" width="60"/><h4>Peso de la App<h4></h4></h4></td>
-<td>Aprox. 25 MB.</td>
+<td>Aprox. 45 MB.</td>
 </tr>
 <tr>
 <td><img height="60" src="https://img.icons8.com/fluency/96/wifi.png" style="float: left;" width="60"/><h4>Conexión<h4></h4></h4></td>
