@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estándares de Seguridad Infantil - Lobby</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 20px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .highlight { font-weight: bold; color: #c0392b; }
+        footer { margin-top: 40px; font-size: 0.9em; color: #666; border-top: 1px solid #eee; padding-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Estándares de Seguridad Infantil</h1>
+    <p><strong>Desarrollador:</strong> erasomlabs</p>
+    <p><strong>Aplicación:</strong> Lobby</p>
+
+    <section>
+        <h2>Compromiso de Seguridad</h2>
+        <p>En <strong>erasomlabs</strong>, nos tomamos con la máxima seriedad la protección de los menores. El desarrollo y operación de la aplicación <strong>Lobby</strong> se rigen por los estándares más estrictos de seguridad infantil.</p>
+    </section>
+
+    <section>
+        <h2>Prohibición de Explotación y Abuso Sexual Infantil (EASI)</h2>
+        <p class="highlight">Queda terminantemente prohibida cualquier forma de Explotación y Abuso Sexual Infantil (EASI) dentro o en relación con la aplicación Lobby.</p>
+        <p>Nuestros estándares prohíben de forma explícita:</p>
+        <ul>
+            <li>La promoción, distribución o facilitación de material relacionado con la EASI.</li>
+            <li>Cualquier conducta que ponga en riesgo la integridad física o psicológica de los menores.</li>
+            <li>El uso de la plataforma para actividades ilícitas que involucren a niños o adolescentes.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Reporte y Acción</h2>
+        <p>Cualquier infracción detectada será reportada inmediatamente a las autoridades competentes, incluyendo el Centro Nacional para Niños Desaparecidos y Explotados (NCMEC) y organismos de seguridad locales. Aplicamos una política de tolerancia cero y eliminación inmediata de cualquier contenido o cuenta que infrinja estos estándares.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 erasomlabs - Lobby. Todos los derechos reservados.</p>
+        <p>Contacto de seguridad: [Tu correo electrónico de desarrollador]</p>
+    </footer>
+</body>
+</html>
